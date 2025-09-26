@@ -1,0 +1,12 @@
+{
+  "name": "my-crypto-token",
+  "version": "1.0.0",
+  "description": "Simple ERC-20 token on Solidity",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
